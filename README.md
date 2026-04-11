@@ -32,6 +32,6 @@ Creo que diseñar este mapa visual antes de tirar líneas de código ayuda mucho
 #ACTIVIDAD MÓDULO 4, LECCIÓN 4
 
 Resumen de la implementación:
-En este proyecto pasamos el diagrama del sistema educacional a código funcional. Lo más interesante fue aplicar el polimorfismo; creé una clase base "Persona" para que "Alumno" y "Profesor" compartieran la lógica de mostrar datos, pero cada uno le añade sus propios detalles técnicos de forma automática.
+En este proyecto pasamos el diagrama del sistema educacional a código funcional. Lo más interesante fue aplicar el polimorfismo, creé una clase base "Persona" para que "Alumno" y "Profesor" compartieran la lógica de mostrar datos, pero cada uno le añade sus propios detalles técnicos de forma automática.
 
 También implementé la sobrecarga en el método de inscripción de materias, permitiendo que el sistema sea flexible si un alumno tiene beca o no. Todo el proyecto está organizado bajo la estructura de carpetas solicitada para asegurar que los objetos interactúen de forma limpia y profesional.
