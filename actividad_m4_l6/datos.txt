@@ -1,0 +1,4 @@
+Esta es la primera línea de mi archivo.
+En la segunda línea estoy aprendiendo a manejar archivos.
+Y esta es la tercera línea para completar el ejercicio.
+Esta es una cuarta línea agregada sin borrar las anteriores.
